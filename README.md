@@ -13,7 +13,7 @@ src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtub
 ## Projects
 | Youtube | Project | Technology |
 | --- | --- | --- |
-| <a href="https://www.youtube.com/watch?v=xl77kz4eIwU"><img alt="Youtube - Please Subscribe..." title="Please Subscribe..." src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a> | [Python Robot Framework POC - Microsoft Power App (Help desk Ticket App)](https://github.com/wyyder/python-robot-framework-poc-microsoft-power-app/blob/main/README.md) | Python / Selenium / Robot Framework / Pycharm / VSCode / Microsoft Power App |
+| <a href="https://www.youtube.com/watch?v=xl77kz4eIwU"><img alt="Youtube - Please Subscribe..." title="Please Subscribe..." src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a> | [Python Robot Framework POC - Microsoft Power App (Help desk Ticket App)](https://github.com/wyyder/python-robot-framework-poc-microsoft-power-app/blob/master/README.md) | Python / Selenium / Robot Framework / Pycharm / VSCode / Microsoft Power App |
 
 
 ## Microsoft Power App (Help desk Ticket App) - Python - Robot Framework - POC
