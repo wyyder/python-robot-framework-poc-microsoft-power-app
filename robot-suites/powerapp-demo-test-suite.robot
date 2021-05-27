@@ -1,5 +1,5 @@
 *** Variables ***
-${URL}          https://apps.powerapps.com/play/c6f99950-9145-4a99-b460-c2f06e8528e8?tenantId=6a607eb3-fc7d-48e5-9e73-6ff9a07ae93a
+${URL}          
 ${USERNAME}
 ${PASSWORD}
 
